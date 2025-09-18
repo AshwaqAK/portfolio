@@ -32,7 +32,6 @@ This is a modern, animated, and fully responsive portfolio template built with *
    git clone https://github.com/AshwaqAK/portfolio.git
    cd portfolio-template
    ```
-https://github.com/AshwaqAK/portfolio.git
 2. **Install dependencies:**
 
    ```bash
